@@ -1,0 +1,3 @@
+name: FishMotd
+version: 1.0
+main: pl.panryba.mc.motd.Plugin
